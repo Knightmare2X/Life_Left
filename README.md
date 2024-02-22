@@ -4,13 +4,4 @@ Application which shows in a single block of style that how much time you have l
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Introducing an ingenious app that quantifies your life's journey with precision: simply input your date of birth and anticipated lifespan, and watch as it generates a comprehensive table showcasing your temporal expenditure. Gain invaluable insights into the allocation of your most precious resource – time.
