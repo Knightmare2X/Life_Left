@@ -1,6 +1,6 @@
 # life_left
 
-Application which shows in a sing le block of style that how much time you have left in this world
+Application which shows in a single block of style that how much time you have left in this world
 
 ## Getting Started
 
