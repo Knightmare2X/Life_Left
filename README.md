@@ -1,4 +1,4 @@
-# life_left
+# Life Left
 
 Application which shows in a single block of style that how much time you have left in this world
 
